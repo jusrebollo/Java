@@ -1,4 +1,4 @@
-#Implementation Read Me
+Implementation Read Me
 For implementing the automatic Vending Machine, I sought to use Interfaces, Inheritance and readable code to 
 efficiently create the Vending Machine. 
 
